@@ -1,1 +1,6 @@
-# Resume
+# Soyadev Devadoss Resume Repository
+Welcome to my professional resume on GitHub! This repository showcases my experience, skills, and achievements in the field of data science and technology. I am a highly motivated individual with a passion for utilizing analytical skills, technical expertise, and data analysis to drive business decisions and deliver actionable insights to stakeholders. I have expertise in SQL, Python, R, and database management, as well as strong experience in statistical modeling, data visualization, UI/UX design, and front-end development.
+
+With a Master's degree in Analytics in progress and a Bachelor's degree in Computer Science, I have honed my skills through diverse work experiences as a Business System Analyst, Frontend Developer Intern, and Lead Operations Specialist. I am committed to continuous learning and growth, as evidenced by my certifications in Data Science, Scrum Product Owner, System Administration and IT Infrastructure Services, and SAS Programming.
+
+The projects included in this repository highlight my ability to design and implement solutions that streamline processes, improve efficiency, and meet the needs of clients and stakeholders. I invite you to take a look at my resume and projects to see how I can bring value to your organization. Thank you for your time and consideration.
